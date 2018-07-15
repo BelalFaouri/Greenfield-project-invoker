@@ -8,18 +8,18 @@
 
 ## Development:
 
-  ## Installing Dependencies:
+  # Installing Dependencies:
    From inside the repo directory
      * npm install -g webpack
      * npm install
 
 
-  ## Running Application:
+  # Running Application:
    - [x] clone the repo OR download it.
    - [x] Run your data base mongoDB from your commander
          * mongod
 
-   - [x] From inside the repo directory go to server directory and run 
+   - [x] From inside the repo directory go to server directory and run
          * npm run jozaa
 
    - [x] Open the App in the browser like [chrome browser]at 127.0.0.1:3000
