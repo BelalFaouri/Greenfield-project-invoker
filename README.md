@@ -8,13 +8,13 @@
 
 ## Development:
 
-  # Installing Dependencies:
+  ### Installing Dependencies:
    From inside the repo directory
      * npm install -g webpack
      * npm install
 
 
-  # Running Application:
+  ### Running Application:
    - [x] clone the repo OR download it.
    - [x] Run your data base mongoDB from your commander
          * mongod
